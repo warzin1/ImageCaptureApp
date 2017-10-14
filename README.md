@@ -1,3 +1,3 @@
 # ImageCaptureApp
-
-COM APLICACAO DE FILTROS NA FOTO
+-Adicionado lib de photo filter
+-Checkbox para aplicação de filtros
