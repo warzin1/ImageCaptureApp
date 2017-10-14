@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ImageCaptureApp.iml" filepath="$PROJECT_DIR$/.idea/ImageCaptureApp.iml" />
+      <module fileurl="file://C:\Users\warzi\AndroidStudioProjects\ImageCaptureApp\ImageCaptureApp.iml" filepath="C:\Users\warzi\AndroidStudioProjects\ImageCaptureApp\ImageCaptureApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\warzi\AndroidStudioProjects\ImageCaptureApp\app\app.iml" filepath="C:\Users\warzi\AndroidStudioProjects\ImageCaptureApp\app\app.iml" />
+    </modules>
+  </component>
+</project>
